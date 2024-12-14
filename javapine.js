@@ -1,0 +1,15 @@
+exec().find("");
+AddString().exec[""];
+AddObject().String().exec[""];
+function(exec).AddObject();
+HBox<observableList()>
+  node()
+{
+string("rare-art");
+  string("performer");
+  string("artist");
+}
+getnode()
+{
+node.object(function());
+}
